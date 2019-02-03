@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/feh-simple-calculator/static/css/main.419c6e02.chunk.css"
   },
   {
-    "revision": "1a41ee1a765a6f88c8639fe93602b9d4",
+    "revision": "1cde4ec2b8e2e813eca3f022d1b64370",
     "url": "/feh-simple-calculator/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/feh-simple-calculator/precache-manifest.1aa56e719044d5c1db879ba56131dc61.js"
+  "/feh-simple-calculator/precache-manifest.869bad464cfacf5db7e5e17ca4dd206c.js"
 );
 
 workbox.clientsClaim();
