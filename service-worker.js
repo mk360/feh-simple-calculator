@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mk360/feh-simple-calculator/precache-manifest.dc3dcaabcde6a67bd9152fd7c7ce8ecb.js"
+  "/feh-simple-calculator/precache-manifest.1aa56e719044d5c1db879ba56131dc61.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mk360/feh-simple-calculator/index.html", {
+workbox.routing.registerNavigationRoute("/feh-simple-calculator/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
