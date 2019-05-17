@@ -1,7 +1,7 @@
 {
   "main.css": "/feh-simple-calculator/static/css/main.419c6e02.chunk.css",
-  "main.js": "/feh-simple-calculator/static/js/main.540c96c5.chunk.js",
-  "main.js.map": "/feh-simple-calculator/static/js/main.540c96c5.chunk.js.map",
+  "main.js": "/feh-simple-calculator/static/js/main.e8486941.chunk.js",
+  "main.js.map": "/feh-simple-calculator/static/js/main.e8486941.chunk.js.map",
   "static/js/1.071ea1fc.chunk.js": "/feh-simple-calculator/static/js/1.071ea1fc.chunk.js",
   "static/js/1.071ea1fc.chunk.js.map": "/feh-simple-calculator/static/js/1.071ea1fc.chunk.js.map",
   "runtime~main.js": "/feh-simple-calculator/static/js/runtime~main.fbbde00b.js",
@@ -9,6 +9,6 @@
   "static/media/App.css": "/feh-simple-calculator/static/media/feh.5a1b9aa2.ttf",
   "static/css/main.419c6e02.chunk.css.map": "/feh-simple-calculator/static/css/main.419c6e02.chunk.css.map",
   "index.html": "/feh-simple-calculator/index.html",
-  "precache-manifest.869bad464cfacf5db7e5e17ca4dd206c.js": "/feh-simple-calculator/precache-manifest.869bad464cfacf5db7e5e17ca4dd206c.js",
+  "precache-manifest.fa1b7382d7e77b9701faf7cd104433f6.js": "/feh-simple-calculator/precache-manifest.fa1b7382d7e77b9701faf7cd104433f6.js",
   "service-worker.js": "/feh-simple-calculator/service-worker.js"
 }

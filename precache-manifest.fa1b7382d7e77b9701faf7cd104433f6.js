@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/feh-simple-calculator/static/js/runtime~main.fbbde00b.js"
   },
   {
-    "revision": "540c96c5fb762ddf76c8",
-    "url": "/feh-simple-calculator/static/js/main.540c96c5.chunk.js"
+    "revision": "e84869414715c27aa16a",
+    "url": "/feh-simple-calculator/static/js/main.e8486941.chunk.js"
   },
   {
     "revision": "071ea1fcf84428831571",
     "url": "/feh-simple-calculator/static/js/1.071ea1fc.chunk.js"
   },
   {
-    "revision": "540c96c5fb762ddf76c8",
+    "revision": "e84869414715c27aa16a",
     "url": "/feh-simple-calculator/static/css/main.419c6e02.chunk.css"
   },
   {
-    "revision": "1cde4ec2b8e2e813eca3f022d1b64370",
+    "revision": "5357eed7fca236eac4acdfb440613eb8",
     "url": "/feh-simple-calculator/index.html"
   }
 ];
